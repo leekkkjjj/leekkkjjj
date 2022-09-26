@@ -47,11 +47,15 @@
 추론 시스템, 법률 전문가 시스템 등을 비전으로 삼고 있습니다. 
 
 
-<p align="left">
-</p>
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leejuneyeong&show_icons=true&locale=en&layout=compact" alt="leekkkjjj/"/></p>  
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=leekkkjjj&" alt="leekkkjjj" /></p>
+
+<br>
 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekkkjjj&show_icons=true&theme=highcontrast)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leekkkjjj&" alt="leekkkjjj" /></p>
