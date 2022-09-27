@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=LeeKukJin&fontSize=70&animation=twinkling)
 
 <h1 align="left">Hi 👋, I'm Lee Kuk Jin</h1>
 <h3 align="left">I want to be a Legal Technology Developer from Korea</h3>
